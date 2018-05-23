@@ -1,7 +1,9 @@
 <h1>OPENSHIFT - source to image</h1>
 <br />
 <br />
-<h2>Środowisko produkcyjne proszę nic nie zmieniać.</h2>
+<h2>Środowisko TESTOWE</h2>
+<br />
+OSD 2018
 <br />
 <img src="lp.png">
 <br />
