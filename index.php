@@ -12,5 +12,5 @@ echo 'Adres IP poda na którym znajduje się aplikacja to ->  ';
 echo $_SERVER['SERVER_ADDR'].'<br/>';
 ?>
 <br />
-test1
+test12
 <br />
