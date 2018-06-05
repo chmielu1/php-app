@@ -3,7 +3,7 @@
 <br />
 <h2>Środowisko TESTOWE</h2>
 <br />
-OSD 2018
+jakas dobra zmiana
 <br />
 <img src="lp.png">
 <br />
