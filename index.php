@@ -3,6 +3,7 @@
 <br />
 <h2>Środowisko Produkcyjne</h2>
 <br />
+jakas dobra zmiana
 <br />
 <img src="lp.png">
 <br />
