@@ -1,9 +1,8 @@
 <h1>OPENSHIFT - source to image</h1>
 <br />
 <br />
-<h2>Środowisko Produkcyjne</h2>
+<h2>Środowisko demo source-to-image</h2>
 <br />
-jakas dobra zmiana ostatnia
 <br />
 <img src="lp.png">
 <br />
@@ -13,5 +12,4 @@ echo 'Adres IP poda na którym znajduje się aplikacja to ->  ';
 echo $_SERVER['SERVER_ADDR'].'<br/>';
 ?>
 <br />
-test151 - dobra zmiana
 <br />
