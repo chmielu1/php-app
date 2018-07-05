@@ -3,7 +3,6 @@
 <br />
 <h2>Środowisko TESTOWE</h2>
 <br />
-jakas lepsza dobra zmiana
 <br />
 <img src="lp.png">
 <br />
