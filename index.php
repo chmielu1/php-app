@@ -1,7 +1,7 @@
 <h1>OPENSHIFT - source to image</h1>
 <br />
 <br />
-<h2>Środowisko TESTOWE wersja druga</h2>
+<h2>Środowisko TESTOWE wersja trzecia</h2>
 <br />
 <br />
 <img src="lp.png">
